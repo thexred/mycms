@@ -1,0 +1,200 @@
+* {
+	/*border: 1px solid black;*/
+}
+#lightbox-secNav-btnClose
+{
+	border : 0px;
+}
+html
+{
+	height: auto;
+	text-align		 : right;
+	width: auto;
+}
+body {
+	left			 : 1px;
+	top				 : -8px;
+	margin-left		 : auto;
+	margin-right	 : auto; 
+	position		 : relative; 
+	text-align		 : center;
+	width			 : 1000px;
+	background		 : scroll center top;
+	background-image : url('/site/themes/default/images/back/back_head_big.jpg');
+	background-color : #e8d7c3;
+	background-repeat: no-repeat;
+	overflow-x		 : auto;
+}
+#head
+{
+
+	width			 : auto;
+	text-align		 : center;
+	height		     : 400px;
+	
+
+}
+#head2
+{
+	margin-left		  : -153px;
+	margin-top		  : 0px;
+	position		  : absolute;
+	width			  : 1260px;
+	height			  : 300px;
+	background-image  : url('/site/themes/default/images/back/back_head.jpg');
+	/*border: 1px solid red;*/
+}
+
+#main
+{
+	/*margin-left: -37px;*/
+	/*left: -18px;*/
+	margin-left      : -648px;
+	position		 : absolute; 
+	left			 : 50%;
+	top				 : 0px;
+	
+}
+
+
+#left 
+{
+	position : absolute;
+	top      : 370px;
+	height   : 602px;
+	width    : 350px;
+}
+#news 
+{
+	width: 80%;
+}
+#content
+{
+	/*border: 1px solid red;*/
+	top      : 370px;
+	left     : 390px;
+	position : absolute;
+	height   : auto;
+	width    : 582px;
+	/*overflow:visible;*/
+}
+
+#right
+{
+	top      : 370px;
+	left     : 930px;
+	position : absolute;
+	height   : 602px;
+	width    : auto;
+}
+#menu2
+{
+
+}
+#logos
+{
+		height: 100px;
+		width: 100px;
+}
+#logo_adventura
+{
+		background-repeat: no-repeat; 
+		height: 50px;
+		width : 70px;
+}
+#logo_4game
+{
+		background-repeat: no-repeat; 
+		height: 30px;
+		width : 100px;
+}
+#paper_up 
+{
+		background-repeat: no-repeat; 
+		height: 73px;
+		background-image: url('/site/themes/default/images/back/paper_up.gif');
+}
+#paper_tile 
+{
+		padding-left	: 115px;
+		background-repeat: repeat-y; 
+		background-image: url('/site/themes/default/images/back/paper_tile.gif');
+}
+#paper_down
+{
+		padding-top		: 19px;
+		background-repeat: no-repeat; 
+		height: 90px;	
+		background-image: url('/site/themes/default/images/back/paper_down.gif');
+}
+#enter
+{
+	position : absolute;
+	left	 : 473px;
+	top		 : 129px;
+	height   : 200px;
+	width    : 200px;
+	text-align: left;
+	/*border : 1px solid red;*/
+}
+#navbar_username
+{
+	padding-top		: 19px;
+	padding-left	: 18px;
+	padding-right	: 24px;
+	border	 		: none;
+	border-width	: 0pt medium;
+	font-family		: Tahoma;
+	font-size		: 12px;
+	font-weight		: bold;
+	height			: 46px;
+	width			: 134px;
+	color			: #FFFFFF;
+	background 		: no-repeat;
+	background-image: url('/site/themes/default/images/misc/login.gif');
+}
+#navbar_password
+{
+	padding-top		: 16px;
+	padding-left	: 22px;
+	padding-right	: 22px;
+	height			: 41px;
+	width			: 130px;
+	border	 		: none;
+	border-width	: 0pt medium;
+	background		: scroll 0% 0%;
+	color			: #FFFFFF;
+	background-image: url('/site/themes/default/images/misc/password.gif');
+}
+
+#enter_button
+{
+	height			: 25px;
+	width 			: 110px;
+	background		: no-repeat;
+}
+
+#remember_pass
+{
+	height			: 30px;
+	width 			: 80px;
+	background		: no-repeat;
+}
+
+.link
+{
+	color:#0000FF !important;
+}
+.tooltip{ 
+	position: absolute; top: 0px; left: 0px; z-index: 3;  display: block;
+	border: solid 1px #000000;
+	background: #FFFFE1;
+	font-family: tahoma;
+	font-size: 12px;
+	padding: 3px;
+	text-align: justify;
+}
+#table_enter
+{
+	/*left: 30px;*/
+}
